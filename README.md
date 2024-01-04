@@ -12,4 +12,4 @@ Ejemplo de web con Navbar responsive hecho en HTML y CSS
 - [https://enriquelg-daw.github.io/Responsive-Navbar/]
 
 ## Instalación
-Este proyecto no necesita instalación. Simplemente abre la carpeta o haz docle click en el .html
+Este proyecto no necesita instalación. Simplemente abre la carpeta o haz doble click en el .html
